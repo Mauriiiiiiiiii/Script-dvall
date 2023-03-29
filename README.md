@@ -1,2 +1,4 @@
-# Script-dvall
-・Comando el cual nos permite borrar todos los vehiculos &amp; autos del mapa completo
+--------------------------------------
+------Crado por Mauri------
+--https://discord.gg/nxR6wf5tJq--
+--------------------------------------
